@@ -1,28 +1,52 @@
-# 🍔 FoodWheels India 🚚  
-**Delivering Deliciousness at Your Doorstep**
+🍔 FoodWheels India 🚚
 
-Hey there 👋  
-Welcome to **FoodWheels India** — my personal web project built with love and creativity!  
-It’s a simple and modern food delivery website that shows how we can bring tasty food to your door in a stylish, responsive way.  
+Delivering Deliciousness at Your Doorstep
 
----
+Hey there 👋
+Welcome to FoodWheels India — my personal web project built with passion and style!
+It’s a simple, responsive, and modern food delivery website that shows how we can combine design and usability beautifully.
 
-## 🌟 Main Features
-- ✅ Clean and **responsive design** that looks great on any device  
-- 🍱 Attractive **food sections** to display menus beautifully  
-- 📍 **Location-based service** concept for quick delivery  
-- 💬 **Contact form** to stay connected with users  
-- ⚡ Lightweight and smooth website performance  
+🌟 Main Features
 
----
+✅ Responsive Design – Looks great on all devices
 
-## 💻 Tech Used
-| Category | Tools |
-|-----------|--------|
-| Frontend | HTML5, CSS3, Bootstrap 5 |
-| Design | Canva / Figma |
-| Version Control | Git & GitHub |
+🍱 Food Sections – Showcases menu items attractively
 
----
+📍 Location-Based Service – Concept for quick delivery
 
-## 📂 Project Structure
+💬 Contact Form – Lets users connect easily
+
+⚡ Optimized – Smooth, fast website experience
+
+💻 Tech Stack
+Category	Technologies Used
+Frontend	HTML5, CSS3, Bootstrap 5
+Design Tools	Canva / Figma
+Version Control	Git & GitHub
+📁 Folder Structure
+FoodWheels_project/
+│
+├── index.html          # Homepage
+├── about.html          # About FoodWheels India
+├── menu.html           # Food Menu Page
+├── contact.html        # Contact Page
+├── /images             # Folder containing website images
+├── /css                # CSS styling files
+
+
+🌐 Live Preview
+
+👉 Click here to view the project live
+
+https://manasa272.github.io/FoodWheels_project/
+
+🧠 Author
+
+Manasa Kuthadi
+Made with using HTML, CSS, and Bootstrap5
+
+💬 Feedback
+
+If you like this project, give it a ⭐ on GitHub — it motivates me to build more awesome projects! 🚀
+
+
