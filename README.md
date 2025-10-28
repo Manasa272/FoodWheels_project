@@ -38,7 +38,7 @@ FoodWheels_project/
 
 👉 Click here to view the project live
 
-https://manasa272.github.io/FoodWheels_project/
+https://github.com/Manasa272/FoodWheels_project.git_project/
 
 🧠 Author
 
