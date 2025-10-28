@@ -42,8 +42,12 @@ https://manasa272.github.io/FoodWheels_project/
 
 🧠 Author
 
-Manasa Kuthadi
-Made with using HTML, CSS, and Bootstrap5
+Name: Manasa Kuthadi  
+Project Title:FoodWheels India  
+Role: Front-End Web Developer  
+Skills: HTML | CSS | Bootstrap | GitHub  
+Portfolio:https://www.linkedin.com/in/manasa-kuthadi-a41b2b31a 
+🌐 [GitHub Profile](https://github.com/Manasa272)
 
 💬 Feedback
 
