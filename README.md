@@ -6,7 +6,7 @@ Hey there 👋
 Welcome to FoodWheels India — my personal web project built with passion and style!
 It’s a simple, responsive, and modern food delivery website that shows how we can combine design and usability beautifully.
 
-🌟 Main Features
+Main Features:
 
 ✅ Responsive Design – Looks great on all devices
 
