@@ -2,7 +2,7 @@
 
 Delivering Deliciousness at Your Doorstep
 
-Hey there 👋
+Hello All👋
 Welcome to FoodWheels India — my personal web project built with passion and style!
 It’s a simple, responsive, and modern food delivery website that shows how we can combine design and usability beautifully.
 
@@ -18,12 +18,13 @@ Main Features:
 
 ⚡ Optimized – Smooth, fast website experience
 
-💻 Tech Stack
+💻 Tech Stack:
 Category	Technologies Used
 Frontend	HTML5, CSS3, Bootstrap 5
 Design Tools	Canva / Figma
 Version Control	Git & GitHub
-📁 Folder Structure
+
+📁 Folder Structure:
 FoodWheels_project/
 │
 ├── index.html          # Homepage
@@ -32,24 +33,30 @@ FoodWheels_project/
 ├── contact.html        # Contact Page
 ├── /images             # Folder containing website images
 ├── /css                # CSS styling files
-
+├──project report       #project report
 
 🌐 Live Preview
 
-👉 Click here to view the project live
+👉 Click here to view the project live:
 
 https://github.com/Manasa272/FoodWheels_project.git_project/
 
-🧠 Author
+🧠 Author:
 
 Name: Manasa Kuthadi  
 Project Title:FoodWheels India  
-Role: Front-End Web Developer  
+gmail: manasakuthadi797@gmail.com
 Skills: HTML | CSS | Bootstrap | GitHub  
 Portfolio:https://www.linkedin.com/in/manasa-kuthadi-a41b2b31a 
 🌐 [GitHub Profile](https://github.com/Manasa272)
 
-💬 Feedback
+📁project report:
+
+[Uploading [FoodWheels report.pdf](https://github.com/user-attachments/files/23201325/FoodWheels.report.pdf)
+FoodWheels report.pdf…]()
+
+
+💬 Feedback:
 
 If you like this project, give it a ⭐ on GitHub — it motivates me to build more awesome projects! 🚀
 
