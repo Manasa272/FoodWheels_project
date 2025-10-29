@@ -27,15 +27,16 @@ Main Features:
 | Version Control | Git & GitHub |
 
 📁 Folder Structure:
+
 FoodWheels_project/
 │
-├── index.html          # Homepage
-├── about.html          # About FoodWheels India
-├── menu.html           # Food Menu Page
-├── contact.html        # Contact Page
-├── /images             # Folder containing website images
-├── /css                # CSS styling files
-├──project report       #project report
+├── index.html # Homepage
+├── about.html # About FoodWheels India
+├── menu.html # Food Menu Page
+├── contact.html # Contact Page
+├── /images # Folder containing website images
+├── /css # CSS styling files
+├── project report
 
 🌐 Live Preview
 
