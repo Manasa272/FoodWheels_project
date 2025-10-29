@@ -19,10 +19,12 @@ Main Features:
 ⚡ Optimized – Smooth, fast website experience
 
 💻 Tech Stack:
-Category	Technologies Used
-Frontend	HTML5, CSS3, Bootstrap 5
-Design Tools	Canva / Figma
-Version Control	Git & GitHub
+
+| **Category**    | **Technologies Used** |
+|---------------  |------------------------|
+| Frontend        | HTML5, CSS3, Bootstrap 5 |
+| Design Tools    | Canva / Figma |
+| Version Control | Git & GitHub |
 
 📁 Folder Structure:
 FoodWheels_project/
