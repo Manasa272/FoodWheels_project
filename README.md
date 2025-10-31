@@ -54,8 +54,8 @@ Portfolio:https://www.linkedin.com/in/manasa-kuthadi-a41b2b31a
 
 📁project report:
 
-[Uploading [FoodWheels report.pdf](https://github.com/user-attachments/files/23201325/FoodWheels.report.pdf)
-FoodWheels report.pdf…]()
+Download here: [FoodWheels report.pdf](https://github.com/user-attachments/files/23201325/FoodWheels.report.pdf)
+FoodWheels report.pdf()
 
 
 💬 Feedback:
