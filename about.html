@@ -3,7 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <base href="https://manasa272.github.io/FoodWheels_project/">
   <title>About - FoodWheels India🍔🚚</title>
+  
+  <!-- Google Font & Bootstrap -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
 
@@ -12,6 +16,8 @@
       font-family: 'Poppins', sans-serif;
       background: linear-gradient(180deg, #fffaf2 0%, #fff5e6 100%);
       color: #212121;
+      margin: 0;
+      padding: 0;
     }
 
     .navbar {
@@ -90,6 +96,7 @@
       color: white;
       text-align: center;
       padding: 20px;
+      margin-top: 40px;
     }
 
     footer i {
@@ -104,18 +111,20 @@
 </head>
 <body>
 
-  <!-- Navbar -->
-  <nav class="navbar navbar-expand-lg">
+  <!-- ✅ Fixed Navbar with collapse toggle working on mobile -->
+  <nav class="navbar navbar-expand-lg navbar-dark">
     <div class="container">
-      <a class="navbar-brand" href="index.html">🍔🚚 FoodWheels India</a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
-        <span class="navbar-toggler-icon text-white"></span>
+      <a class="navbar-brand" href="index.html">FoodWheels India 🍔</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#menu"
+        aria-controls="menu" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
       </button>
-      <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
-        <ul class="navbar-nav">
-          <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
-          <li class="nav-item"><a class="nav-link active" href="about.html">About</a></li>
-          <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+      <div class="collapse navbar-collapse" id="menu">
+        <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+          <li class="nav-item"><a class="nav-link fw-bold" href="index.html">Home</a></li>
+          <li class="nav-item"><a class="nav-link fw-bold" href="about.html">About</a></li>
+          <li class="nav-item"><a class="nav-link fw-bold" href="menu.html">Menu</a></li>
+          <li class="nav-item"><a class="nav-link fw-bold" href="contact.html">Contact</a></li>
         </ul>
       </div>
     </div>
@@ -125,13 +134,13 @@
   <div class="hero-section">
     <div>
       <h1>Our Journey on Wheels</h1>
-      <p>Connecting Villages and Cities through Taste+Technology+Travel</p>
+      <p>Connecting Villages and Cities through Taste + Technology + Travel</p>
     </div>
   </div>
 
   <!-- About Section -->
   <section class="about-section container">
-    <h2 class="section-title text-center">FoodWheels India🍔🚚</h2>
+    <h2 class="section-title text-center">FoodWheels India 🍔🚚</h2>
     <p>
       <strong>FoodWheels India - The Travelling Food Truck Website</strong> is not just a food project —  
       it's a story, a brand, and a vision created by <strong>Manasa</strong> to unite people through <b>taste</b>, <b>technology</b>, and <b>travel</b>.  
@@ -142,27 +151,26 @@
     <p>
       From <b>City people in Hyderabad</b> to <b>farmers in Machilipatnam</b>, FoodWheels India ensures that everyone gets access to
       fresh, hygienic, and affordable food.  
-      <em>“From City Streets to Village Roads — One Meal for All.”</em>🌾🍛
+      <em>“From City Streets to Village Roads — One Meal for All.”</em> 🌾🍛
     </p>
-
-    
+  </section>
 
   <!-- Founder Section -->
   <section class="founder-section container">
     <h2 class="section-title text-center">👩‍🍳 About the Founder</h2>
     <div class="row justify-content-center align-items-center">
-      <div class="col-md-5 mb-4">
+      <div class="col-md-6 mb-4">
         <div class="founder-card text-center p-4">
           <h3>Manasa</h3>
           <p class="text-muted">Founder & Visionary</p>
           <p>
             Manasa started <b>FoodWheels India</b> with one goal — to bring delicious food closer to everyone, 
             whether in cities or remote villages.  
-            My idea blends modern technology, social media, and street food culture to make food trucks
+            Her idea blends modern technology, social media, and street food culture to make food trucks
             a part of India's everyday journey.
           </p>
           <p>
-            “For me, food isn't just a meal — it's a emotion and a connection that travels with every wheel on the road.” ❤🚚
+            “For me, food isn't just a meal — it's an emotion and a connection that travels with every wheel on the road.” ❤🚚
           </p>
         </div>
       </div>
@@ -180,6 +188,7 @@
     </div>
   </footer>
 
+  <!-- Bootstrap JS -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
